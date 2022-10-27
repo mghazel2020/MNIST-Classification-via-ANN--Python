@@ -1,6 +1,6 @@
-# MNIST Hand-Written Digits Classification using Artificial Neural Networks (ANN)
+# MNIST Hand-Written Digits Classification using Artificial Neural Networks (ANN) in Python
 
-<img align="center" src="images/banner-03.png" width="500" >
+<img align="center" src="images/banner-03.png" width="1000" >
 
 ## 1. Objective
 
@@ -621,11 +621,11 @@ We plan to explore the following related issues:
 
 ## 7. References
 
-1. Yun Lecun, Corina Cortes, Christopher J.C. Buges. The MNIST database if handwritten digits. Retrieved from: http://yann.lecun.com/exdb/mnist/ (September 15th, 2022).
-2. Prateek Goyal. MNIST dataset using Dee Leaning algorithm (ANN). Retrieved from: https://medium.com/@prtk13061992/mnist-dataset-using-deep-learning-algorithm-ann-c6f83aa594f5 (September 15th, 2022).
-3. Tyler Elliot Bettilyon. How to classify MNIST digits with different neural network architectures. Retrieved from: https://medium.com/tebs-lab/how-to-classify-mnist-digits-with-different-neural-network-architectures-39c75a0f03e3 (September 15th, 2022).
-4. Mönchmeyer Anracon. A simple Python program for an ANN to cover the MNIST dataset: A starting point. Retrieved from: https://linux-blog.anracom.com/2019/09/29/a-simple-program-for-an-ann-to-cover-the-mnist-dataset-i/ (September 15th, 2022).
-5. Orhan G. Yalcin. Image Classification in 10 Minutes with MNIST Dataset Using Convolutional Neural Networks to Classify Handwritten Digits with TensorFlow and Keras | Supervised Deep Learning. Retrieved from: https://towardsdatascience.com/image-classification-in-10-minutes-with-mnist-dataset-54c35b77a38d (September 15th, 2022).
+1. Yun Lecun, Corina Cortes, Christopher J.C. Buges. The MNIST database if handwritten digits. Retrieved from: http://yann.lecun.com/exdb/mnist/.
+2. Prateek Goyal. MNIST dataset using Dee Leaning algorithm (ANN). Retrieved from: https://medium.com/@prtk13061992/mnist-dataset-using-deep-learning-algorithm-ann-c6f83aa594f5.
+3. Tyler Elliot Bettilyon. How to classify MNIST digits with different neural network architectures. Retrieved from: https://medium.com/tebs-lab/how-to-classify-mnist-digits-with-different-neural-network-architectures-39c75a0f03e3.
+4. Mönchmeyer Anracon. A simple Python program for an ANN to cover the MNIST dataset: A starting point. Retrieved from: https://linux-blog.anracom.com/2019/09/29/a-simple-program-for-an-ann-to-cover-the-mnist-dataset-i/.
+5. Orhan G. Yalcin. Image Classification in 10 Minutes with MNIST Dataset Using Convolutional Neural Networks to Classify Handwritten Digits with TensorFlow and Keras | Supervised Deep Learning. Retrieved from: https://towardsdatascience.com/image-classification-in-10-minutes-with-mnist-dataset-54c35b77a38d.
 
 
 
